@@ -1,4 +1,4 @@
-# Data Foundations
+# Module 1.2: Data Foundations
 
 ## 1. What is Data Analytics? (5 minutes)
 

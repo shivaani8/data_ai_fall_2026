@@ -107,11 +107,13 @@ Pick the right model for each job and budget your AI spend with intent.
 
 ## Additional Assignments: 
 
+- [ ] Post your AI Builder Certificate in the discussion here: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/6
 - [ ] Review the Data Analytics Resource repository
 - [x ] Add teachers & fellow students on linkedin
 - [ ] Continue editing your Claude Artifact from Saturday's class via prompts or VSCode and Publish on GitHub as a GitHub page (ask AI for help as needed!)
 - [ ] Watch these 2 videos about Data Foundations (with your kids if applicable!) 
 * [Data and Graphs](https://www.youtube.com/watch?v=hcgThf5mv38&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2&t=1s)
-* [Mean, Median, and Mode](https://www.youtube.com/watch?v=B1HEzNTGeZ4&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2) 
+* [Mean, Median, and Mode](https://www.youtube.com/watch?v=B1HEzNTGeZ4&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2)
+
       
 
