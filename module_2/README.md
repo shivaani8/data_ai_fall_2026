@@ -117,4 +117,4 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 ## Assignments - complete by Saturday
 
 - [ ] [Analyze Your Spending Over the Last 3 Months](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_2/assignment_1.md)
-- [ ] [Calculate Your Net Worth](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_2/assignment_2.md) 
+- [ x] [Calculate Your Net Worth](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_2/assignment_2.md) 
