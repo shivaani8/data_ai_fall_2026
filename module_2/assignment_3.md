@@ -81,7 +81,7 @@ Functions work great for specific calculations while pivot tables are best for s
 - What is the education of the applicants who have been assigned a cohort?
 - What is the race/ethnicity of applicants that were assigned a cohort?
 
-- [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
+- [ x] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
 
 Videos: Fun with Pivot Tables - [Part 1](https://www.loom.com/share/fa91b25c236747698de2fccb44779deb) | [Part 2](https://www.loom.com/share/ae613a0927424e8cab5a174537bd440b) 
 
