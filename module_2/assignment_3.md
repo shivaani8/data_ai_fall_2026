@@ -27,7 +27,7 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 - [ ] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
 - [ ] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [ ] Start by evaluating the columns to understand what data you’re working with
-- [ ] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
+- [ ] Create a new tab, “Data Dictionary” and copy the column header -> go to new tab -> paste “transposed”. This will paste the columns vertically.
 - [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
 - [ ] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
@@ -83,11 +83,15 @@ Functions work great for specific calculations while pivot tables are best for s
 
 - [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
 
+Videos: Fun with Pivot Tables - [Part 1](https://www.loom.com/share/fa91b25c236747698de2fccb44779deb) | [Part 2](https://www.loom.com/share/ae613a0927424e8cab5a174537bd440b) 
+
 ### Step Five: Create Charts & Build a Dashboard
 
 - [ ] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
 - [ ] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
 - [ ] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
+
+Videos: [Create a Scorecard](https://www.loom.com/share/8d630ef049494b209de63a2e36a42e78)
 
 ### Step Six: Make it Aesthetic
 
@@ -100,5 +104,5 @@ Functions work great for specific calculations while pivot tables are best for s
 
 ### Last Step: Ship it!
 
-- [ ] Drop a screenshot of the dashboard, along with a URL link and 3 bullet points of insights into this discussion thread: 
+- [ ] Drop a screenshot of the dashboard, along with a URL link and 3 bullet points of insights into this discussion thread: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/17
 - [ ] Do a little happy dance - you’re crushing it!
