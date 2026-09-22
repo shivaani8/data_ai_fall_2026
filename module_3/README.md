@@ -69,4 +69,4 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 BONUS ASSIGNMENT: 
 
-- [ ] Analyze the Tech-Mom Demographic Data in Tableau 
+- [ x] Analyze the Tech-Mom Demographic Data in Tableau 
