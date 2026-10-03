@@ -37,12 +37,12 @@ Share with your group:
 📣 Housekeeping
 - 🥳 Congrats to **Vanessa** on her new role!
 - 🙏 Thank you to **Kelsey** for the in-person session, shoutout to everyone who shared on LinkedIn! 
-- 🙏 Thanks to **Amanda** for securing Pool for our next in-person session
+- 🙏 Thanks to **Amanda** for securing Porch for our next in-person session
 - 🎓 Graduation will be at **MarketStar in SLC**
 - 🎟️ Free **Maven Analytics** codes — sharing out tonight
 - 🧠 **[Claude workshop](https://mavenanalytics.io/live-workshops/claude-at-work-skills-projects-cowork-and-more?ck_subscriber_id=4288232737&utm_source=convertkit&utm_medium=email&utm_campaign=Claude%20at%20Work%3A%20Skills%2C%20Projects%2C%20Cowork%20and%20More.%20This%20weeks%20Live%20Workshop%21%20-%2023512746&sh_kit=de40333fe100ff5f3b5e0d1b0f447671e3c8fe1a898d5516f95e80e89e745e08)** tomorrow at noon
 
-🚀 Introducing the AI Challenge: Use Muse
+🚀 Introducing the [AI Challenge: Use Muse](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/72)
 What it is, how to get started, and how to share your results.
 
 🗄️ Let's Talk: SQL Self-Study Week
