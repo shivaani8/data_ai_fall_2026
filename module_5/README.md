@@ -35,8 +35,8 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Estimated total time to complete: 1 hour_
 
-- [x] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
-- [x] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
+- [ ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
+- [ ] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
 
 ---
 
@@ -44,10 +44,10 @@ _Estimated total time to complete: 1 hour_
 
 _Estimated total time to complete: 4 hours_
 
-- [x] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
-- [x] Follow along in Google Looker Data Studio to create a Looker Dashboard
-- [x] You can use the data provided in the video OR choose a data set that interests you from [Kaggle](https://www.kaggle.com/datasets) to analyze/visualize.
-- [x] Drop your completed dashboard in [this discussion]() thread.
+- [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
+- [ ] Follow along in Google Looker Data Studio to create a Looker Dashboard
+- [ ] You can use the data provided in the video OR choose a data set that interests you from [Kaggle](https://www.kaggle.com/datasets) to analyze/visualize.
+- [ ] Drop your completed dashboard in [this discussion]() thread.
 
 ---
 
@@ -57,22 +57,22 @@ _Estimated total time to complete: 4 hours_
 
 _Estimated time to complete: 1.5 hours_
 
-- [x] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w)
-- [x] Watch video [How to Turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
-- [x] Watch Kelsey's video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
+- [ ] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w)
+- [ ] Watch video [How to Turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
+- [ ] Watch Kelsey's video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
 
 ### Additional Resources
 
 _Estimated time to complete: 30 minutes_
 
-- [x] Review this slide deck - [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
-- [x] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
-- [x] Check out this "data scrollstory" - [The Pixar Story](https://pixar-scroll-tale.lovable.app/)
-- [x] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
-- [x] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
+- [ ] Review this slide deck - [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
+- [ ] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+- [ ] Check out this "data scrollstory" - [The Pixar Story](https://pixar-scroll-tale.lovable.app/)
+- [ ] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
+- [ ] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
 
 ### Assignment - Complete by class Saturday, October 10th
 
 _Estimated time to complete: 3 hours_
 
-- [x] Complete the [Data Storytelling Assignment](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_5/assignment.md)
+- [ ] Complete the [Data Storytelling Assignment](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_5/assignment.md)
