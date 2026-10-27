@@ -75,4 +75,4 @@ _Estimated time to complete: 30 minutes_
 
 _Estimated time to complete: 3 hours_
 
-- [ ] Complete the [Data Storytelling Assignment](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_5/assignment.md)
+- [ x] Complete the [Data Storytelling Assignment](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_5/assignment.md)
