@@ -10,8 +10,8 @@ This week is "Choose Your Adventure" week, where you go deeper on a topic of you
 
 Pick an area you're interested in. You'll do an analysis using **your own data** or a dataset from [Kaggle](https://www.kaggle.com/datasets) (or anywhere else you can find data).
 
-- [ ] I've picked my topic: Online Student Retention
-- [ ] I've found my [dataset](https://archive.ics.uci.edu/dataset/349/open+university+learning+analytics+dataset)
+- [x ] I've picked my topic: Online Student Retention
+- [ x] I've found my [dataset](https://archive.ics.uci.edu/dataset/349/open+university+learning+analytics+dataset)
 
 > 💡 Pick a topic you care about. It's much easier to stay motivated (and tell a good story) with data you find interesting.
 
@@ -36,7 +36,7 @@ Pick a tool you want more practice with. You can go deeper on one we've already 
 - **Python or R:** try your hand at coding if you're interested!
 - **A platform specific to your industry:** research the tools people in your field use to track data. For example, if you work in events, find the platform event planners use to track registrations and attendance, and use it for your analysis.
 
-- [ ] I've picked my tool:
+- [x ] I've picked my tool:
 **SQL and Python in Deepnote + Tableau Public**
 Ticket: "Too many students are withdrawing or failing before they finish a course. I need to know which courses and student groups are most at risk, and whether we can spot struggling students early, in the first few weeks. Give me a dashboard and your top 3 recommendations by Friday."
 
